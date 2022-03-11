@@ -1,0 +1,10 @@
+.navbar-container {
+  padding: 15px 40px;
+}
+
+.navbar-brand-container h2{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 32px;
+  color: #FFFFFF;
+}
